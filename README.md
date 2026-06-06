@@ -37,6 +37,7 @@ return 0;
 ```
 ## OUTPUT:
 
+<img width="634" height="168" alt="image" src="https://github.com/user-attachments/assets/f9e0e1a9-f815-4b08-b1a5-618aafc6cb9f" />
 
 ## RESULT:
 Hence the experiment has been executed successfully
